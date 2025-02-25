@@ -1,5 +1,5 @@
 
- ![typing SVG](http://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+felipe+zoraski;I'm+16+years+old;I+from+Brazil)
+ ![typing SVG](http://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+felipe+zoraski;I'm+18+years+old;I+from+Brazil)
 
 ![fx's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeogawaz&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentageicons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeogawaz&langs_count=8icons=true&theme=dracula)
